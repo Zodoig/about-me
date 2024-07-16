@@ -35,7 +35,8 @@ p[id= "quote"] {
 }
 
 p, ul, li, table {
-    font-family: "Indie Flower", cursive;", sans-serif;;
+    font-family: "Indie Flower", cursive;
+    font-size: large;
 }
 
 table, tr, td {

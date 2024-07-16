@@ -12,7 +12,7 @@ img[id= "headshot"] {
 
 
  h1, h2, h3, h5 {
-    font-family: "Pacifico", cursive;;
+    font-family: "Peralta", serif;
 }
 
 .pacifico-regular {
@@ -35,7 +35,7 @@ p[id= "quote"] {
 }
 
 p, ul, li, table {
-    font-family: "Jost", sans-serif;;
+    font-family: "Indie Flower", cursive;", sans-serif;;
 }
 
 table, tr, td {

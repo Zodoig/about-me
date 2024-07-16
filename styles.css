@@ -59,11 +59,13 @@ img {
 
 p[class="story"], p[id="counting"] {
     max-width: 40%;
+    text-align: justify;
 }
 
 @media (max-width: 1000px) {
     p[class="story"], p[id="counting"] {
         max-width: 80%;
+        text-align: justify;
     }
 }
 

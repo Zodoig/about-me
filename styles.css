@@ -1,0 +1,80 @@
+h1 {
+    color: rgb(210, 80, 210);
+}
+
+img[id= "headshot"] {
+    border: solid;
+    border-color: rgb(210, 80, 210);
+    padding-left: 0;
+    max-height: 300px;
+
+}
+
+
+ h1, h2, h3, h5 {
+    font-family: "Pacifico", cursive;;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  /* .caveat-<uniquifier> {
+    font-family: 
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  } */
+
+
+p[id= "quote"] {
+    font-family: "Caveat", cursive;
+    font-size: x-large;
+}
+
+p, ul, li, table {
+    font-family: "Jost", sans-serif;;
+}
+
+table, tr, td {
+    border: solid;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+td[id= "colour"] {
+    background-color: rgba(192, 17, 17, 0.821);
+}
+
+img {
+    padding-left: 10px;
+    max-height: 30px;
+}
+
+* {
+    background-color: rgb(255, 236, 251);
+}
+
+p[id="story"] {
+    max-width: 40%;
+}
+
+@media (max-width: 1000px) {
+    p[id="story"] {
+        max-width: 80%;
+    }
+}
+
+.page {
+    padding-left: 5%;
+}
+
+#me {
+    color: rgb(210, 80, 210);
+}
+
+a {
+    color: blueviolet;
+}
